@@ -1,8 +1,6 @@
 ﻿using CustomersApplication.Database;
 using CustomersApplication.Model;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore.Storage;
-using System.Linq.Expressions;
 
 namespace CustomersApplication.Controllers
 {
